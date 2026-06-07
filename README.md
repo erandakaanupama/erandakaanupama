@@ -29,5 +29,5 @@ I build scalable backend systems and modern web applications with production-rea
 - https://github.com/erandakaanupama/order-service
 
 ## 📫 Contact
-- https://www.linkedin.com/in/erandakaanupama/
+- [LinkedIn](https://www.linkedin.com/in/erandakaanupama/)
 - [Email](mailto:erandaka.bandara@outlook.com)
