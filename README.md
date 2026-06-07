@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Erandaka Anupama 👋
 
-<!--
-**erandakaanupama/erandakaanupama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Full Stack Software Engineer specializing in Java, Spring Boot, React, and Angular.  
+I build scalable backend systems and modern web applications with production-ready architecture.
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+- Building scalable microservices (Spring Boot)
+- Exploring Kubernetes & cloud-native deployments
+- Improving system design & distributed systems knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Backend:** Java, Kotlin, Spring Boot, Hibernate, REST APIs  
+**Frontend:** React, Angular  
+**DevOps:** Docker, Kubernetes, Jenkins  
+**Database:** MySQL, PostgreSQL  
+
+## 🌟 Featured Projects
+
+### 🔹 Planning Poker
+- React web app for agile story estimation  
+- Tech: React, Firebase, Tailwind CSS, Vite, Vercel  
+- https://github.com/erandakaanupama/app-planning-poker
+
+### 🔹 Order Service
+- Spring Boot + Kotlin microservice for food ordering  
+- Focus: scalability & microservices architecture  
+- Tech: Spring Boot, Kotlin, Docker, MySQL, OpenAPI  
+- https://github.com/erandakaanupama/order-service
+
+## 📫 Contact
+- https://www.linkedin.com/in/erandakaanupama/
+- [Email](mailto:erandaka.bandara@outlook.com)
