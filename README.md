@@ -30,4 +30,4 @@ I build scalable backend systems and modern web applications with production-rea
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/erandakaanupama/)
-- [Email](mailto:erandaka.bandara@outlook.com)
+- [Email](mailto:erandakaanupama@gmail.com)
